@@ -52,6 +52,10 @@
 
 
 
+git add -all
+git commit -m "changed"
+git pull
+git push
 
 
 
