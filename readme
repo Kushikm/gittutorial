@@ -31,7 +31,8 @@
 10. Moving from current to another branch :
                      git checkout branchname
 
-11.                      
+11.merging :
+              git merge branchname            
 
 
 
