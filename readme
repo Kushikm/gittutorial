@@ -1,0 +1,18 @@
+1. Git intialization :
+                      git init
+
+2. Create files :
+                      index.html( whatever files you required create all those things)
+
+3.To see list of files:
+                       ls           
+
+4.To seee the status :
+                       git status(git aware of the file but not added those  files to  the repo)
+
+5. staging (involves adding files to the git):
+                    git add filename
+                    git add -all
+                    git add -A
+                                           
+
