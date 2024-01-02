@@ -4,7 +4,7 @@
 2. Create files :
                       index.html( whatever files you required create all those things)
 
-3.To see list of files:
+3. To see list of files:
                        ls           
 
 4. To seee the status :
@@ -14,5 +14,29 @@
                     git add filename
                     git add -all
                     git add -A
-                                           
+
+6. commit(save point):
+                    git commit -m "message"
+
+7. command help:
+                  git command -help (see all available options for the specific command)
+                  git help --all (see all possible commands)
+
+8. creating new branch :
+                     git branch branchname
+
+9. branch list :
+                   git branch
+
+10. Moving from current to another branch :
+                     git checkout branchname
+
+11.                      
+
+
+
+
+
+
+
 
