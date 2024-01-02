@@ -33,7 +33,22 @@
 
 11. merging :
               git merge branchname            
-                   
+
+12. Accept changes
+
+13. delete branch:
+               git branch -d branchname
+
+14. Create repo in github account
+
+15. add this file to git:
+                  git push -u origin branchname
+
+16. add all the changes you made to github:
+                    git push
+
+17. to get updated one if anyone changed code ...to get that in our local repo:
+                      git pull                    
 
 
 
