@@ -7,7 +7,7 @@
 3.To see list of files:
                        ls           
 
-4.To seee the status :
+4. To seee the status :
                        git status(git aware of the file but not added those  files to  the repo)
 
 5. staging (involves adding files to the git):
